@@ -6,7 +6,8 @@ interns:
   - Ron Swanson
 - name: Indigo Fox
   email: indigo.fox@noaa.gov
-  mentor: Jessica Meixner
+  mentor: 
+  - Jessica Meixner
 employees:
 - name: Milton Waddams
   email: milton.waddams@noaa.gov
